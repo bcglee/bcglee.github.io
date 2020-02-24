@@ -1,0 +1,21 @@
+div {
+  border: 2px solid gray;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  text-align: center;
+  color: red;
+  margin-left: 50px;
+  font-size: 1.5em;
+}
