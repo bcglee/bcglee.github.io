@@ -1,3 +1,7 @@
+* {
+    font-family: courier;
+  }
+
 .center {
   display: block;
   margin-left: auto;
